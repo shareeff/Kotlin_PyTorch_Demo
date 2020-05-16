@@ -1,0 +1,2 @@
+rootProject.name='Kotlin PyTorch Demo'
+include ':app'
